@@ -30,8 +30,8 @@
             ],
             "styles": [
               {
-                "input": "src/styles.css"
-              }
+                "input": "src/styles.scss"
+              },
             ],
             "scripts": []
           },

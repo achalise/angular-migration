@@ -2,6 +2,11 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0-rc.4.
 
+To run `npm install` and `ng serve`.
+AngularJS codebase is within `ng1` folder and is bootstrapped with Angular. The example shows Angular component downgraded
+and rendered as child component of Angular1 parent component.
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
